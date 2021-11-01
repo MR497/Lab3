@@ -8,6 +8,9 @@ https://www.windowscentral.com/install-windows-subsystem-linux-windows-10
 You will also need Make installed to run the makefile install by issuing the following command in the terminal
 $ sudo apt install make
 
+Change the directory to the file and run the command
+$ make 
+
 The report should show a table that lists the year, sex, most popular name of that year, and the total amount of names.
 The year should go down in ascending order. 
 
