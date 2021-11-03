@@ -15,3 +15,4 @@ The report should show a table that lists the year, sex, most popular name of th
 The year should go down in ascending order. 
 
 
+This project also contains a Javascript event lisenter program. This is a simple word counter program that counts the number of words inputed by the user in the text box
