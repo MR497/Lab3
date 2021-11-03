@@ -1,0 +1,13 @@
+<html>
+<head>
+  <title>Word Counter</title>
+</head>
+<body>
+
+  <h2>Word Count: <span id="count">0</span></h2>
+  <textarea id="input" rows="10"></textarea>
+
+  <script src="main.js"></script>
+
+</body>
+</html>
